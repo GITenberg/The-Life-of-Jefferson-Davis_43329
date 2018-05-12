@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42141'
     url: http://www.gutenberg.org/2009/agents/42141
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43329#The-Life-of-Jefferson-Davis
 gutenberg_issued: '2013-07-27'
 gutenberg_type: Text
 identifiers:
