@@ -1,0 +1,29 @@
+_repo: The-Life-of-Jefferson-Davis_43329
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43329-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alfriend, Frank H. (Frank Heath)
+    birthdate: 1841
+    deathdate: 1887
+    gutenberg_agent_id: '42141'
+    url: http://www.gutenberg.org/2009/agents/42141
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43329'
+  lccn: 07023799
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Davis, Jefferson, 1808-1889'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcc 'E456'
+- !lcsh 'Confederate States of America'
+title: The Life of Jefferson Davis
+url: http://www.gutenberg.org/ebooks/43329
